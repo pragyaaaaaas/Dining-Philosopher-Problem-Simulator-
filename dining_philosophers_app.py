@@ -24,7 +24,6 @@ import random
 from enum import Enum
 from dataclasses import dataclass, field
 from typing import List, Dict
-import matplotlib.pyplot as plt
 import numpy as np
 
 # -------------------
